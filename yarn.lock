@@ -457,6 +457,11 @@
     "@typescript-eslint/types" "6.2.0"
     eslint-visitor-keys "^3.4.1"
 
+"@unpic/qwik@^0.0.25":
+  version "0.0.25"
+  resolved "https://registry.yarnpkg.com/@unpic/qwik/-/qwik-0.0.25.tgz#c0a11da676817ffdbe00388acde8cd92894e5d36"
+  integrity sha512-8YvmmOwk7dWdtAlZFiNM+z7SWHJ/M6uoleVr8y82eeu2yxPvr5n8kUgG1MdXX+re0RBtumF1vfEe4GP2UJoFMg==
+
 acorn-jsx@^5.0.0, acorn-jsx@^5.3.2:
   version "5.3.2"
   resolved "https://registry.yarnpkg.com/acorn-jsx/-/acorn-jsx-5.3.2.tgz#7ed5bb55908b3b2f1bc55c6af1653bada7f07937"
